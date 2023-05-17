@@ -1,0 +1,1 @@
+docker container run --name training-sql -e MYSQL_ROOT_PASSWORD=root -d -p 3306:3306 apaulinhacarlos/tina-modas:v1
